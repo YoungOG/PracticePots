@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/BarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/ChatLib_v1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/EssentialsGroupManager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/TagAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/Votifier.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/worldedit-5.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/plugins/worldguard-5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/spigot1658.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/SpigotUpdated.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Calvin/Desktop/test/commons-pool2-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
